@@ -1,0 +1,287 @@
+% Michael Lenard - Curriculum Vitae
+% Email: mclenard@umich.edu
+% Web: https://mclenard.github.io/
+% Repo: https://github.com/mclenard/cv
+
+\documentclass[12pt,letterpaper]{report}
+
+\usepackage[T1]{fontenc} % output T1 font encoding (8-bit) so accented characters are a single glyph
+\usepackage[utf8]{inputenc} % allow input of utf-8 encoded characters
+\usepackage[strict,autostyle]{csquotes} % smart and nestable quote marks
+\usepackage[USenglish]{babel} % automatically regionalize hyphens, quote marks, etc
+\usepackage{microtype} % improves text appearance with kerning, etc
+\usepackage{datetime} % enable formatting of date output
+\usepackage{tabto} % make nice tabbing
+\usepackage{hyperref} % enable hyperlinks and pdf metadata
+\usepackage{geometry} % manually set page margins
+\usepackage{enumitem} % enumerate with [resume] option
+\usepackage{titlesec} % allow custom section fonts
+
+% what is your name?
+\newcommand{\myname}{Michael Lenard}
+
+% define a default font face and set it as the body font
+\usepackage{crimson} % document's serif font
+\usepackage{helvet}  % document's sans serif font
+
+% define how far to tab for list items with left-aligned date - different font faces need different widths
+\newcommand{\listtabwidth}{1.75cm}
+
+% set name font to title the document
+\newcommand{\namefont}[1]{{\normalfont\bfseries\Huge{#1}}}
+
+% set section heading fonts and before/after spacing
+\SetTracking{encoding=*}{20}
+\titleformat{\section}{\sffamily\small\bfseries\lsstyle\uppercase}{}{}{}{}
+\titlespacing{\section}{0pt}{24pt plus 4pt minus 2pt}{12pt plus 2pt minus 2pt}
+
+% set subsection heading fonts and before/after spacing
+\titleformat{\subsection}{\sffamily\footnotesize\bfseries}{}{}{}{}
+\titlespacing{\subsection}{0pt}{12pt plus 4pt minus 2pt}{8pt plus 2pt minus 2pt}
+
+% set page margins
+\geometry{body={6.5in, 9.0in},
+    left=1.0in,
+    top=1.0in}
+
+% prevent paragraph indentation
+\setlength\parindent{0em}
+
+% define space between list items
+\newcommand{\listitemspace}{0.15em}
+
+% make unordered lists without bullets and use compact spacing
+\renewenvironment{itemize}
+{\begin{list}{}{\setlength{\leftmargin}{0em}
+            \setlength{\parskip}{0em}
+            \setlength{\itemsep}{\listitemspace}
+            \setlength{\parsep}{\listitemspace}}}
+    {\end{list}}
+
+% make tabbed lists so content is left-aligned next to years
+\TabPositions{\listtabwidth}
+\newlist{tablist}{description}{3}
+\setlist[tablist]{leftmargin=\listtabwidth,
+    labelindent=0em,
+    topsep=0em,
+    partopsep=0em,
+    itemsep=\listitemspace,
+    parsep=\listitemspace,
+    font=\normalfont}
+
+% print the month and year only when using \today
+\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}
+
+% define hyperlink appearance and metadata for pdf properties
+\hypersetup{
+    colorlinks  = true,
+    urlcolor    = black,
+    pdfauthor   = {\myname},
+    pdfkeywords = {research data, LIS, information science, RDM},
+    pdftitle    = {\myname: Curriculum Vitae},
+    pdfsubject  = {Curriculum Vitae},
+    pdfpagemode = UseNone
+}
+
+\begin{document}
+    \raggedright
+
+    % display name as the document title
+    \namefont{\myname}
+
+    % contact info
+    \vspace{1em}
+    \begin{minipage}[t]{0.68\textwidth}
+        2731 International Dr. Apt 1735 \\
+        %\\Ypsilanti, MI, 48197
+    \end{minipage}
+    \begin{minipage}[t]{0.31\textwidth}
+        Email: \href{mailto:mclenard@umich.edu}{mclenard@umich.edu} \\
+        Phone: +1 248 891 8503 \\
+        Web: \href{https://mclenard.github.io/}{https://mclenard.github.io/}
+    \end{minipage}
+    \vspace{0.5em}
+
+
+
+    \section*{Education}
+
+    \begin{tablist}
+
+        \item[M.S.I.] \tab Information, University of Michigan, 2020
+
+        \item[M.S.]  \tab Physical Chemistry, University of Michigan, 2017
+
+        \item[B.A.]  \tab Political Science, Michigan State University, 2011
+        
+        \item[B.S.]  \tab Physics, Michigan State University, 2011
+
+    \end{tablist}
+
+
+
+    \section*{Professional and Academic Interests}
+
+    \begin{itemize}
+
+        \item Semantics-based knowledge organization: linked data, taxonomies, and ontologies
+
+        \item Research data: data curation and management, access to research data, data cleaning and processing, developing and documenting transparent data workflows
+
+        \item The Library's role in science: Outreach, open & equitable access, citizen & community science projects
+
+    \end{itemize}
+
+
+
+    \section*{Work, Research, & Project Experience}
+
+    \begin{tablist}
+    
+        \item[2020] \tab Summer Librarian, University of Michigan Biological Station
+    
+        \item[2019--20] \tab Research Assistant, Thomer Lab, University of Michigan School of Information
+        
+        \item[2018--20] \tab Resident & Program Assistant, Shapiro Design Lab, University of Michigan Library
+    
+        \item[2019] \tab Technical Services Project Assistant, University of Michigan Library
+
+        \item[2015--17] \tab Research Assistant, Geva Laboratory, University of Michigan Dept. of Chemistry
+
+        \item[2013--14] \tab Research Assistant, Hoogstraten Laboratory, Michigan State University Dept. of Biochemistry and Molecular Biology
+
+    \end{tablist}
+
+
+
+    \section*{Teaching Experience}
+
+    \subsection*{University of Michigan}
+    
+    \begin{itemize}
+    	
+    	  \item SI 666: Organization of Information Resources (Graduate Student Instructor)
+        
+    	  \item SI 106: Programs, Information, and People (Graduate Student Instructor)
+        
+        \item SI 699: Digital Curation Mastery Course (Tutor)
+        
+        \item CHEM 125/126: General Chemistry Laboratory I & II (Graduate Student Instructor)
+        
+        \item CHEM 453: Biophysical Chemistry I (Graduate Student Instructor)
+        
+        \item CHEM 260/261: Chemical Principles & Introduction to Quantum Chemistry (Graduate Student Instructor)
+        
+        \item CHEM 230: Physical Chemical Principles and Applications (Graduate Student Instructor)
+    
+	  \end{itemize}
+    	
+    \subsection*{Michigan State University}
+
+    \begin{itemize}
+
+        \item PHY 184: Physics for Scientists and Engineers II (Teaching Assistant)
+        
+        \item PHY 232: Introductory Physics II (Teaching Assistant)
+        
+        \item PHY 191: Physics Laboratory for Scientists, I (Teaching Assistant)
+        
+        \item PHY 251: Introductory Physics Laboratory I (Teaching Assistant)
+        
+        \item PHY 102: Physics Computations I (Teaching Assistant)
+
+    \end{itemize}
+
+
+
+    \section*{Publications}
+
+    \subsection*{Articles}
+
+    \begin{tablist}
+   
+        \item[2017] \tab Wiley, T.; Arruda, B.; Miller, N.; Lenard, M.; Sension, R. \enquote{Excited electronic states and internal conversion in cyanocobalamin.} \textit{CCL} 2015 26 (4): 439--44. \href{DOI}{https://doi.org/10.1016/j.cclet.2015.03.003}
+
+        \item[2015] \tab Jafari, M.; Welden, A.; Williams, K.; Winograd, B.; Hendrickson, H.; Lenard, M.; Gottfried, A.; Geva, E. \enquote{Compute-to-Learn: Authentic Learning via Development of Interactive Computer Demonstrations within a Peer-Led Studio Environment.} \textit{J. Chem. Ed.} 2017 94 (12): 1896--1903. \href{DOI}{https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00032#}
+
+    \end{tablist}
+
+
+
+    \section*{Presentations}
+    
+    \subsection*{Posters}
+    
+    \begin{tablist}
+    
+        \item[2020] \tab Lenard, M. \enquote{Zooniverse Data Workflows.} Poster presented at: UMSI QuasiCon; February 2020; Ann Arbor, MI.
+
+    \end{tablist}
+    
+    
+
+    \section*{Awards, Honors, and Fellowships}
+
+    \begin{tablist}
+    
+        \item[2019] \tab Rackham Diversity, Equity, and Inclusion Certificate
+
+        \item[2014--2017] \tab Rackham Science Award (Fellowship)
+        
+        \item[2011--12] \tab Kaplan, Strangis and Kaplan Law School Scholarship 
+        
+        \item[2011--12] \tab Dean's Distinguished Scholarship
+        
+        \item[2010] \tab Herbert T. Graham Scholarship
+        
+        \item[2006--10] \tab Michigan Competitive Scholarship
+
+    \end{tablist}
+
+
+
+    \section*{Skills}
+
+    \begin{itemize}
+
+        \item Knowledge of scientific literature and the scientific research process
+        
+        \item Experience with XML, JSON, RDF, RDFS/SKOS/OWL, and various other data and metadata standards
+        
+        \item Competency with Python, R, SQL, SPARQL, OpenRefine, Protégé, Mathematica
+        
+        \item Familiarity with data cleaning and wrangling techniques and statistical analyses
+        
+    \end{itemize}
+    
+    
+    
+    \section*{Previous Affiliations}
+    
+    \begin{itemize}
+    
+        \item Graduate Employees Organization #3550
+    
+        \item Asylum Law Project
+    
+        \item American Constitution Society
+    
+        \item Minnesota Justice Foundation
+    
+        \item Society of Physics Students
+        
+        \item q Undergraduate Association for Linguistics at Michigan State
+        
+    \end{itemize}
+
+
+
+    % display today's date as Month Year after a vertical space below the end of the text
+    \begin{center}
+        %\vspace{6em}
+        \vfill
+        Updated \monthyeardate\today
+    \end{center}
+
+
+\end{document}
