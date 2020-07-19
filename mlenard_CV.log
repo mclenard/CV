@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.4)  17 JUL 2020 20:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.4)  18 JUL 2020 22:43
 entering extended mode
 **./mlenard_CV.tex
 (mlenard_CV.tex
@@ -639,12 +639,12 @@ LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
 
 {C:/Users/Michael/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 322.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 324.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 322.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 324.
  (mlenard_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 322.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 322.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 324.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 324.
 Package rerunfilecheck Info: File `mlenard_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -666,7 +666,7 @@ a/Local/Programs/MiKTeX 2.9/fonts/type1/kosch/crimson/Crimson-Italic.pfb><C:/Us
 ers/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/kosch/crimson/Crimson
 -Roman.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
 helvetic/uhvb8a.pfb>
-Output written on mlenard_CV.pdf (3 pages, 196934 bytes).
+Output written on mlenard_CV.pdf (3 pages, 197084 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
