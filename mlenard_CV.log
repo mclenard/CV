@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.4)  19 JUL 2020 02:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.4)  25 JUL 2020 23:09
 entering extended mode
 **./mlenard_CV.tex
 (mlenard_CV.tex
@@ -655,7 +655,7 @@ Here is how much of TeX's memory you used:
  26373 multiletter control sequences out of 15000+200000
  623403 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,5n,64p,1067b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,5n,64p,1067b,529s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/crimson/c
 rm_tyw3ea.enc}{C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvi
 ps/base/8r.enc}{C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dv
@@ -666,7 +666,7 @@ a/Local/Programs/MiKTeX 2.9/fonts/type1/kosch/crimson/Crimson-Italic.pfb><C:/Us
 ers/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/kosch/crimson/Crimson
 -Roman.pfb><C:/Users/Michael/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
 helvetic/uhvb8a.pfb>
-Output written on mlenard_CV.pdf (3 pages, 197082 bytes).
+Output written on mlenard_CV.pdf (3 pages, 197116 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
