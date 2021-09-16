@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  2 SEP 2021 11:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  16 SEP 2021 17:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -580,13 +580,13 @@ LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
  [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 342.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 320.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 342.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 320.
 
 (./mlenard_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 342.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 342.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 320.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 320.
 Package rerunfilecheck Info: File `mlenard_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
@@ -606,7 +606,7 @@ texmf-dist/fonts/type1/kosch/crimson/Crimson-Bold.pfb></usr/local/texlive/2020/
 texmf-dist/fonts/type1/kosch/crimson/Crimson-Italic.pfb></usr/local/texlive/202
 0/texmf-dist/fonts/type1/kosch/crimson/Crimson-Roman.pfb></usr/local/texlive/20
 20/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on mlenard_CV.pdf (3 pages, 192394 bytes).
+Output written on mlenard_CV.pdf (3 pages, 192069 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
