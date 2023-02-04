@@ -1,15 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.23)  23 JUN 2022 13:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.3)  3 FEB 2023 23:14
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**mlenard_CV.tex
-(./mlenard_CV.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24>
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/report.cls
+**./mlenard_CV.tex
+(mlenard_CV.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28>
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size12.clo
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -25,23 +24,23 @@ File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count194
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 )
 \csq@reset=\count195
@@ -52,55 +51,69 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \csq@tshold=\count266
 \csq@ltx@everypar=\toks19
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.cfg
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
 )
 Package csquotes Info: Enabling strict warnings.
 Package csquotes Info: Enabling multilingual quotes.
-)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/02/26 3.73 The Babel package
+) (C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/10/04 3.81 The Babel package
 \babel@savecnt=\count267
 \U@D=\dimen139
-\l@unhyphenated=\language87
+\l@unhyphenated=\language79
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count268
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/babel-english/USenglish.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\USenglish
+.ldf
 Language: USenglish 2017/06/06 v3.3r English support from the babel system
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language21). Reported on input line 105.
+(babel)             (\language73). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language21). Reported on input line 108.
+(babel)             (\language73). Reported on input line 108.
 )))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2022/03/14 v3.0d Micro-typographical refinements (RS)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-usenglish.tex
+Package babel Info: Importing font and identification data for USenglish
+(babel)             from babel-en-US.ini. Reported on input line 11.
+)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
 \MT@toks=\toks20
-\MT@tempbox=\box50
+\MT@tempbox=\box51
 \MT@count=\count269
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1027.
-LaTeX Info: Redefining \leftprotrusion on input line 1028.
-LaTeX Info: Redefining \rightprotrusion on input line 1036.
-LaTeX Info: Redefining \textls on input line 1195.
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
+LaTeX Info: Redefining \leftprotrusion on input line 1046.
+LaTeX Info: Redefining \rightprotrusion on input line 1056.
+LaTeX Info: Redefining \textls on input line 1234.
 \MT@outer@kern=\dimen140
-LaTeX Info: Redefining \textmicrotypecontext on input line 1781.
+LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
 \MT@listname@count=\count270
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2022/03/14 v3.0d Definitions specific to pdftex (RS)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 900.
 LaTeX Info: Redefining \lslig on input line 900.
@@ -108,37 +121,37 @@ LaTeX Info: Redefining \lslig on input line 900.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2022/03/14 v3.0d microtype main configuration file (RS)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
 ))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/datetime/datetime.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmtcount.sty
 Package: fmtcount 2020/01/30 v3.07
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks21
 \XKV@tempa@toks=\toks22
 )
 \XKV@depth=\count271
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcprefix.sty
 Package: fcprefix 2012/09/28
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnumparser.st
+y
 Package: fcnumparser 2017/06/15
 \fc@digit@counter=\count272
-))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+)) (C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks23
 \ex@=\dimen141
@@ -146,10 +159,11 @@ File: amsgen.sty 1999/11/30 v2.0 generic functions
 \c@padzeroesN=\count273
 \fc@tmpcatcode=\count274
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/fmtcount/fc-english.def
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-english.def
 File: fc-english.def 2016/01/12
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/fmtcount/fc-USenglish.def
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-USenglish.d
+ef
 File: fc-USenglish.def 2013/08/17
 )
 \@DT@modctr=\count275
@@ -160,7 +174,8 @@ File: fc-USenglish.def 2013/08/17
 \@DT@loopN=\count280
 \@DT@X=\count281
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime-defau
+lts.sty
 Package: datetime-defaults 2013/09/10
 )
 \@day=\count282
@@ -182,106 +197,123 @@ put line 308.
 \dayofweek=\count296
 LaTeX Info: Redefining \today on input line 736.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/datetime/dt-USenglish.def
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/datetime\dt-USenglish.d
+ef
 File: dt-USenglish.def 2013/09/10
 )
 \dt@a=\toks24
 \dt@b=\toks25
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/tabto-ltx/tabto.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/tabto-ltx\tabto.sty
 Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
 \CurrentLineWidth=\dimen142
 \TabPrevPos=\dimen143
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count297
 )
 \@linkdim=\dimen144
-\Hy@linkcounter=\count297
-\Hy@pagecounter=\count298
-
-(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+\Hy@linkcounter=\count298
+\Hy@pagecounter=\count299
+ (C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count299
-
-(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count300
+ (C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4137.
-Package hyperref Info: Link nesting OFF on input line 4142.
-Package hyperref Info: Hyper index ON on input line 4145.
-Package hyperref Info: Plain pages OFF on input line 4152.
-Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4390.
-\c@Hy@tempcnt=\count300
+\stockwidth=\dimen145
+\stockheight=\dimen146
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count301
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/url/url.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4749.
-\XeTeXLinkMargin=\dimen145
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen147
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count301
-\Field@Width=\dimen146
-\Fld@charsize=\dimen147
+\Fld@menulength=\count302
+\Field@Width=\dimen148
+\Fld@charsize=\dimen149
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -289,97 +321,98 @@ Package hyperref Info: backreferencing OFF on input line 6042.
 Package hyperref Info: Link coloring OFF on input line 6047.
 Package hyperref Info: Link coloring with OCG OFF on input line 6052.
 Package hyperref Info: PDF/A mode OFF on input line 6057.
-LaTeX Info: Redefining \ref on input line 6097.
-LaTeX Info: Redefining \pageref on input line 6101.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count302
-\c@Item=\count303
-\c@Hfootnote=\count304
+\Hy@abspage=\count303
+\c@Item=\count304
+\c@Hfootnote=\count305
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
-
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count305
-\c@bookmark@seq@number=\count306
+\Fld@listcount=\count306
+\c@bookmark@seq@number=\count307
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+85.
 )
 \Hy@SectionHShift=\skip50
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count307
-\Gm@cntv=\count308
-\c@Gm@tempcnt=\count309
-\Gm@bindingoffset=\dimen148
-\Gm@wd@mp=\dimen149
-\Gm@odd@mp=\dimen150
-\Gm@even@mp=\dimen151
-\Gm@layoutwidth=\dimen152
-\Gm@layoutheight=\dimen153
-\Gm@layouthoffset=\dimen154
-\Gm@layoutvoffset=\dimen155
+\Gm@cnth=\count308
+\Gm@cntv=\count309
+\c@Gm@tempcnt=\count310
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
 \Gm@dimlist=\toks26
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip51
-\enit@outerparindent=\dimen156
+\enit@outerparindent=\dimen158
 \enit@toks=\toks27
-\enit@inbox=\box51
-\enit@count@id=\count310
-\enitdp@description=\count311
+\enit@inbox=\box52
+\enit@count@id=\count311
+\enitdp@description=\count312
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box52
+\ttl@box=\box53
 \beforetitleunit=\skip52
 \aftertitleunit=\skip53
-\ttl@plus=\dimen157
-\ttl@minus=\dimen158
+\ttl@plus=\dimen159
+\ttl@minus=\dimen160
 \ttl@toksa=\toks28
-\titlewidth=\dimen159
-\titlewidthlast=\dimen160
-\titlewidthfirst=\dimen161
+\titlewidth=\dimen161
+\titlewidthlast=\dimen162
+\titlewidthfirst=\dimen163
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/crimson/crimson.sty
-Package: crimson 2017/03/16 (Bob Tennent) Supports crimson fonts for all LaTeX 
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/crimson\crimson.sty
+Package: crimson 2022/09/30 (Bob Tennent) Supports crimson fonts for all LaTeX 
 engines. 
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifxetex.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -391,8 +424,7 @@ LaTeX Info: Redefining \ulcshape on input line 41.
 LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
-))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/helvet.sty
+)) (C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
 
@@ -400,25 +432,27 @@ Package microtype Warning: tracking amount list `mlenard_CV.tex/34' will
 (microtype)                override list `default' for 
 (microtype)                font `T1////' on input line 34.
 
-\enitdp@tablist=\count312
+\enitdp@tablist=\count313
 Package hyperref Info: Option `colorlinks' set `true' on input line 84.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 LaTeX Font Info:    Trying to load font information for T1+Crimson-TLF on input
  line 86.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/crimson/T1Crimson-TLF.fd
+
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/crimson\t1crimson-tlf.f
+d
 File: T1Crimson-TLF.fd 2016/02/19 (autoinst) Font definitions for T1/Crimson-TL
 F.
 )
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 86.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count313
-\l__pdf_internal_box=\box53
-)
-(./mlenard_CV.aux)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count314
+\l__pdf_internal_box=\box54
+) (mlenard_CV.aux)
 \openout1 = `mlenard_CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
@@ -459,48 +493,36 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 
-(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count314
-\scratchdimen=\dimen162
-\scratchbox=\box54
-\nofMPsegments=\count315
-\nofMParguments=\count316
+\scratchcounter=\count315
+\scratchdimen=\dimen164
+\scratchbox=\box55
+\nofMPsegments=\count316
+\nofMParguments=\count317
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count317
-\MPscratchDim=\dimen163
-\MPnumerator=\count318
-\makeMPintoPDFobject=\count319
+\MPscratchCnt=\count318
+\MPscratchDim=\dimen165
+\MPnumerator=\count319
+\makeMPintoPDFobject=\count320
 \everyMPtoPDFconversion=\toks30
-)))
+))
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+)
 Package hyperref Info: Link coloring ON on input line 86.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count320
-)
-LaTeX Info: Redefining \ref on input line 86.
-LaTeX Info: Redefining \pageref on input line 86.
-LaTeX Info: Redefining \nameref on input line 86.
- (./mlenard_CV.out) (./mlenard_CV.out)
+ (mlenard_CV.out) (mlenard_CV.out)
 \@outlinefile=\write3
 \openout3 = `mlenard_CV.out'.
 
@@ -547,7 +569,7 @@ LaTeX Font Info:    Font shape `T1/Crimson-TLF/b/n' will be
 (Font)              scaled to size 24.88pt on input line 90.
 LaTeX Font Info:    Trying to load font information for T1+phv on input line 10
 6.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/t1phv.fd
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -555,7 +577,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(C:\Users\micha\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
@@ -568,35 +590,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/it' will be
 (Font)              scaled to size 12.0pt on input line 136.
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 156.
- [1
+(Font)              scaled to size 10.0pt on input line 154.
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
- [4]
-(./mlenard_CV.aux)
+[1
+
+{C:/Users/micha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+[3] [4] (mlenard_CV.aux)
 Package rerunfilecheck Info: File `mlenard_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14289 strings out of 478268
- 236505 string characters out of 5846347
- 602096 words of memory out of 5000000
- 32163 multiletter control sequences out of 15000+600000
- 568216 words of font info for 125 fonts, out of 8000000 for 9000
+ 14432 strings out of 475385
+ 242708 string characters out of 2776908
+ 658385 words of memory out of 3000000
+ 35481 multiletter control sequences out of 15000+600000
+ 566108 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,5n,76p,1064b,547s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/crimson/crm_tyw3ea.enc}{/
-usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texli
-ve/2022/texmf-dist/fonts/enc/dvips/crimson/crm_izufyi.enc}{/usr/local/texlive/2
-022/texmf-dist/fonts/enc/dvips/crimson/crm_fllea6.enc}</usr/local/texlive/2022/
-texmf-dist/fonts/type1/kosch/crimson/Crimson-Bold.pfb></usr/local/texlive/2022/
-texmf-dist/fonts/type1/kosch/crimson/Crimson-Italic.pfb></usr/local/texlive/202
-2/texmf-dist/fonts/type1/kosch/crimson/Crimson-Roman.pfb></usr/local/texlive/20
-22/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on mlenard_CV.pdf (4 pages, 198131 bytes).
+ 72i,5n,77p,1066b,773s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/micha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/crimson/crm_tyw
+3ea.enc}{C:/Users/micha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.e
+nc}{C:/Users/micha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/crimson/crm_iz
+ufyi.enc}{C:/Users/micha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/crimson/
+crm_fllea6.enc}<C:/Users/micha/AppData/Local/Programs/MiKTeX/fonts/type1/kosch/
+crimson/Crimson-Bold.pfb><C:/Users/micha/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/kosch/crimson/Crimson-Italic.pfb><C:/Users/micha/AppData/Local/Programs/MiK
+TeX/fonts/type1/kosch/crimson/Crimson-Roman.pfb><C:/Users/micha/AppData/Local/P
+rograms/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
+Output written on mlenard_CV.pdf (4 pages, 207893 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
  38401 words of extra memory for PDF output out of 42996 (max. 10000000)
 
