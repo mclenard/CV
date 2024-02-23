@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.30)  30 JAN 2024 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.1.30)  13 FEB 2024 15:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -588,10 +588,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 106.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 106.
-LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 138.
 LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 156.
+(Font)              scaled to size 10.0pt on input line 128.
+LaTeX Font Info:    Font shape `T1/Crimson-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 156.
 
 [1
 
@@ -615,13 +615,13 @@ Here is how much of TeX's memory you used:
  36430 multiletter control sequences out of 15000+600000
  654461 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,1066b,785s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,1066b,669s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/vha7sb/AppData/Local/Programs/MiKTeX/fonts/type1/kosch/crimson/Crim
 son-Bold.pfb><C:/Users/vha7sb/AppData/Local/Programs/MiKTeX/fonts/type1/kosch/c
 rimson/Crimson-Italic.pfb><C:/Users/vha7sb/AppData/Local/Programs/MiKTeX/fonts/
 type1/kosch/crimson/Crimson-Roman.pfb><C:/Users/vha7sb/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on mlenard_CV.pdf (4 pages, 208818 bytes).
+Output written on mlenard_CV.pdf (4 pages, 208902 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
